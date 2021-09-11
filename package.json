@@ -1,0 +1,25 @@
+{
+  "name": "setup-a-mordern-javascript-project-with-webpack-5-article",
+  "version": "1.0.0",
+  "description": "Code for blog post explaining how to set up a mordern javascript project with webpack 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushSaini00/setup-a-mordern-javascript-project-with-webpack-5-article.git"
+  },
+  "keywords": [
+    "webpack",
+    "ayush",
+    "saini",
+    "javascript"
+  ],
+  "author": "Ayush Saini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AyushSaini00/setup-a-mordern-javascript-project-with-webpack-5-article/issues"
+  },
+  "homepage": "https://github.com/AyushSaini00/setup-a-mordern-javascript-project-with-webpack-5-article#readme"
+}
