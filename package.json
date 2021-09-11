@@ -4,7 +4,7 @@
   "description": "Code for blog post explaining how to set up a mordern javascript project with webpack 5",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/AyushSaini00/setup-a-mordern-javascript-project-with-webpack-5-article#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^5.3.2",
     "webpack": "^5.52.1",
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.2.0"
